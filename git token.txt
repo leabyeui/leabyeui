@@ -1,0 +1,12 @@
+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
+
+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
+
+
+echo "# Hello-python" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/leabyeui/Hello-python.git
+git push -u origin main
